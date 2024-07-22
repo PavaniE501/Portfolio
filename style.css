@@ -148,16 +148,6 @@ a:hover{
 
 /* SECTION */
 
-
-.section__pic-container img {
-    border-radius: 50%;
-    width: 300px; /* Adjust the size as needed */
-    height: 300px; /* Adjust the size as needed */
-    object-fit: cover; /* Ensure the image covers the container */
-    border: 2px solid #fff; /* Optional: add a border around the image */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for better visibility */
-}
-
 section {
     padding-top: 4vh;
     height: 96vh;
